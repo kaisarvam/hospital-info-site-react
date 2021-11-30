@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "servicesId": 1,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 2,
+    "servicesId": 1,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 3,
+    "servicesId": 1,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 4,
+    "servicesId": 1,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 5,
+    "servicesId": 1,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 6,
+    "servicesId": 1,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 7,
+    "servicesId": 1,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 8,
+    "servicesId": 1,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 9,
+    "servicesId": 1,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  },
+  {
+    "id": 10,
+    "servicesId": 2,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 11,
+    "servicesId": 2,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 12,
+    "servicesId": 2,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 13,
+    "servicesId": 2,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 14,
+    "servicesId": 2,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 15,
+    "servicesId": 2,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 16,
+    "servicesId": 2,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 17,
+    "servicesId": 2,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 18,
+    "servicesId": 2,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  },
+  {
+    "id": 19,
+    "servicesId": 3,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 20,
+    "servicesId": 3,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 21,
+    "servicesId": 3,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 22,
+    "servicesId": 3,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 23,
+    "servicesId": 3,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  },
+  {
+    "id": 24,
+    "servicesId": 3,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 25,
+    "servicesId": 3,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 26,
+    "servicesId": 3,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 27,
+    "servicesId": 3,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 28,
+    "servicesId": 4,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 29,
+    "servicesId": 4,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 30,
+    "servicesId": 4,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 31,
+    "servicesId": 4,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 32,
+    "servicesId": 4,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 33,
+    "servicesId": 4,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 34,
+    "servicesId": 4,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 35,
+    "servicesId": 4,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 36,
+    "servicesId": 4,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  },
+  {
+    "id": 37,
+    "servicesId": 5,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 38,
+    "servicesId": 5,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 39,
+    "servicesId": 5,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 40,
+    "servicesId": 5,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 41,
+    "servicesId": 5,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  },
+  {
+    "id": 42,
+    "servicesId": 5,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 43,
+    "servicesId": 5,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 44,
+    "servicesId": 5,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 45,
+    "servicesId": 5,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 46,
+    "servicesId": 6,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 47,
+    "servicesId": 6,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 48,
+    "servicesId": 6,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 49,
+    "servicesId": 6,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 50,
+    "servicesId": 6,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 51,
+    "servicesId": 6,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 52,
+    "servicesId": 6,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 53,
+    "servicesId": 6,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 54,
+    "servicesId": 6,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  },
+  {
+    "id": 55,
+    "servicesId": 7,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 56,
+    "servicesId": 7,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 57,
+    "servicesId": 7,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 58,
+    "servicesId": 7,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 59,
+    "servicesId": 7,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  },
+  {
+    "id": 60,
+    "servicesId": 7,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 61,
+    "servicesId": 7,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 62,
+    "servicesId": 7,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 63,
+    "servicesId": 7,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 64,
+    "servicesId": 8,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 65,
+    "servicesId": 8,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 66,
+    "servicesId": 8,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 67,
+    "servicesId": 8,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 68,
+    "servicesId": 8,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 69,
+    "servicesId": 8,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 70,
+    "servicesId": 8,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 71,
+    "servicesId": 8,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 72,
+    "servicesId": 8,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  },
+  {
+    "id": 73,
+    "servicesId": 9,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 74,
+    "servicesId": 9,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 75,
+    "servicesId": 9,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 76,
+    "servicesId": 9,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 77,
+    "servicesId": 9,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  },
+  {
+    "id": 78,
+    "servicesId": 9,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 79,
+    "servicesId": 9,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 80,
+    "servicesId": 9,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 81,
+    "servicesId": 9,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 82,
+    "servicesId": 10,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 83,
+    "servicesId": 10,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 84,
+    "servicesId": 10,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 85,
+    "servicesId": 10,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 86,
+    "servicesId": 10,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 87,
+    "servicesId": 10,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 88,
+    "servicesId": 10,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 89,
+    "servicesId": 10,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 90,
+    "servicesId": 10,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  },
+  {
+    "id": 91,
+    "servicesId": 11,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 92,
+    "servicesId": 11,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 93,
+    "servicesId": 11,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 94,
+    "servicesId": 11,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 95,
+    "servicesId": 11,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  },
+  {
+    "id": 96,
+    "servicesId": 11,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 97,
+    "servicesId": 11,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 98,
+    "servicesId": 11,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 99,
+    "servicesId": 11,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 100,
+    "servicesId": 12,
+    "serviceName": "Laparoscopy",
+    "imageURL": "https://i.ibb.co/dGFJzwq/Laparoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Laparoscopy is an operation performed in the abdomen or pelvis using small incisions with the aid of a camera. The laparoscope aids diagnosis or therapeutic interventions with a few small cuts in the abdomen.",
+    "rating": 3.5,
+    "rated": 1589
+  },
+  {
+    "id": 101,
+    "servicesId": 12,
+    "serviceName": "Endoscopy ",
+    "imageURL": "https://i.ibb.co/pWKK5w3/Endoscopy.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "An endoscopy is a procedure used in medicine to look inside the body. The endoscopy procedure uses an endoscope to examine the interior of a hollow organ or cavity of the body. Unlike many other medical imaging techniques, endoscopes are inserted directly into the organ. There are many types of endoscopies",
+    "rating": 4.0,
+    "rated": 1155
+  },
+  {
+    "id": 102,
+    "servicesId": 12,
+    "serviceName": "Gastroenterology & Liver surgery ",
+    "imageURL": "https://i.ibb.co/j54VK32/Gastroenterology-Liver-surgery.jpg",
+    "Doctors": "Prof. Dr. AHM Rowshon , Dr. Dilip Kumar Ghosh , Dr. Kazi Zakir Hosain ",
+    "serviceDetail": "Gastroenterology is a branch of medicine concerned with digestive diseases. The practice of gastroenterology concentrates on the diagnosis and treatment of diseases involving the esophagus, stomach, small intestine and large intestine (colon), liver, gallbladder, and pancreas.",
+    "rating": 2.5,
+    "rated": 4245
+  },
+  {
+    "id": 103,
+    "servicesId": 12,
+    "serviceName": "Neurosurgery ",
+    "imageURL": "https://i.ibb.co/jrmpsQP/Neurosurgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Neurosurgery or neurological surgery, known in common parlance as brain surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders",
+    "rating": 3.1,
+    "rated": 4115
+  },
+  {
+    "id": 104,
+    "servicesId": 12,
+    "serviceName": "Colorectal surgery",
+    "imageURL": "https://i.ibb.co/q1L38pP/Colorectal-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan , Dr. Ismat Jahan Lima",
+    "serviceDetail": "Colorectal surgery is a field in medicine dealing with disorders of the rectum,anus, and colon. The field is also known as proctology, but this term is now used infrequently within medicine and is most often employed to identify practices relating to the anus and rectum in particular.",
+    "rating": 4.5,
+    "rated": 2459
+  },
+  {
+    "id": 105,
+    "servicesId": 12,
+    "serviceName": "Laser surgery ",
+    "imageURL": "https://i.ibb.co/K6bBBtM/Laser-surgery.jpg",
+    "Doctors": "Dr. Tariq Akhtar Khan ",
+    "serviceDetail": "Laser surgery is a type of surgery that uses a laser to cut tissue. Examples include the use of a laser scalpel in otherwise conventional surgery, and soft-tissue laser surgery, in which the laser beam vaporizes soft tissue with high water content. Laser surgery is commonly used on the eye",
+    "rating": 4.9,
+    "rated": 2345
+  },
+  {
+    "id": 106,
+    "servicesId": 12,
+    "serviceName": "Head Surgery ",
+    "imageURL": "https://i.ibb.co/dctYM29/Head-Surgery.jpg",
+    "Doctors": "Dr. Md. Safiullah",
+    "serviceDetail": "A craniotomy involves making an incision in the scalp and creating a hole known as a bone flap in the skull. The hole and incision are made near the area of the brain being treated. During open brain surgery, your surgeon may opt to: remove tumors.",
+    "rating": 3.9,
+    "rated": 4245
+  },
+  {
+    "id": 107,
+    "servicesId": 12,
+    "serviceName": "urology surgery",
+    "imageURL": "https://i.ibb.co/Kq12nNC/urology-surgery.jpg",
+    "Doctors": "Dr. Md. Rokonuzzaman Khan",
+    "serviceDetail": "Urologic surgery is the integration of surgical activities for the pelvis-the colon, urogenital, and gynecological organs-primarily for the treatment of obstructions, dysfunction, malignancies, and inflammatory diseases.",
+    "rating": 3.8,
+    "rated": 2115
+  },
+  {
+    "id": 108,
+    "servicesId": 12,
+    "serviceName": "ENT surgery",
+    "imageURL": "https://i.ibb.co/wQLNCpb/ENT-surgery.jpg",
+    "Doctors": "Prof. Dr. Hasan Saydee Khan , Dr. Sheik Md. Abdul Fazal ",
+    "serviceDetail": "Otolaryngology [oh-toh-lar-ing-GOL-uh-jee] or ENT surgery focuses on surgically treating disorders of the ears, nose, and throat. This type of surgery is performed by an otolaryngologist, a doctor trained to treat patients with disorders and diseases of the ears, nose, throat, and other structures of the neck and face.",
+    "rating": 3.9,
+    "rated": 3275
+  }
+]

@@ -1,0 +1,12 @@
+.card-height-medicine{
+    height: 550px;
+    box-shadow: 4px 4px 10px black;
+}
+
+.card-height-medicine:hover{
+    height: 550px;
+    box-shadow: 4px 4px 25px rgb(51, 250, 167);
+}
+
+
+

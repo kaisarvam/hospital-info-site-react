@@ -1,0 +1,111 @@
+[
+    { 
+        "id" :1,
+        "HospitalName": "Shahid Suhrawardy Hospital",
+        "HospitalImage" : "https://i.ibb.co/gZpV4sf/Shahid-Suhrawardy-Hospital.png",
+        "HospitalDetail": "Shaheed Suhrawardy Medical College (ShSMC) is the 14th government medical college of Bangladesh which is established in 2006. It is situated in the north-western part of Dhaka beside the National Parliament House, having a unique architectural campus and excellent academic atmosphere. The area is commonly known as medical zone and this medical college is surrounded by a number of medical institutes; National Institute of Cardiovascular Diseases, National Institute of Kidney Diseases and Urology, National Institute of Mental Health, Bangladesh Institute of Child Health, National Institute of TraumatologScreenshot_27y, National Institute of Ophthalmology and National Institute of Neuro Science. Shaheed Suhrawardy Medical College Hospital has a long heritage of discharging health care services and also has a proud history of patronizing many of the above medical institutes to establish and flourish. We have a great commitment to provide top class medical education, excellent training and quality research through eminent and experienced teachers.",
+        "ContactNumber": "9122560-78",
+        "Address" : "Ser-e-Banglanagar, Collegegate",
+        "servicesId" : 1
+        
+    },{ 
+        "id" :2,
+        "HospitalName": "Ad-Din Hospital",
+        "HospitalImage" : "https://i.ibb.co/7jV2JKt/Ad-Din-Hospital.jpg",
+        "HospitalDetail": "Ad-Din Welfare Centre a voluntary organisation for the service of the disadvantaged. With the patronage of sheikh akijuddin (1929-2006) and with the initiative of Professor mohammad sharif husain (1934-2007), Ad-Din Welfare Centre was established in 1980 in Jessore. Ad-Din Welfare Centre is registered with NGO Affairs Bureau and Ministries of Social Welfare and Health and Family Welfare. At present the employee number of the organisation is 2242.For rehabilitating the orphan children and orphange (Ad-Din Shishu-Kishore Niketon) was established in 1980 by Ad-Din Welfare Centre. Since its inception the organisation made arrangements for modern education for seven hundred orphans. Ad-Din Welfare Centre also initiated in 1985 projects for Quranic, non-formal and female education in remote villages. In 1999 Lichutala of East Barandi Para of Jessore Town Sakhina Model Girls' School was established. The organisation initiated maternal and child health and family planning activities by establishing a health sub-centre at Balarampur village of the Sadar Upazilla of Jessore district in 1989. With different working areas allocated by the Family Planning Department of the government, Ad-Din Welfare Centre is providing maternal and child health and family planning services through satellite clinics. Currently in the working areas of Ad-Din Welfare Centre every month 398 satellite clinics are being organized. Since 1990 microfinance programme of Ad-Din Welfare Centre to help the women is being implemented through 57 units and 11 area offices. Women from the rural areas are also receiving health education, contraceptive, knowledge of nutrition, training and necessary information to produce handicrafts and grow vegetables and seasonal crops. The organisation has been performing these activities with the support of Palli Karma Shahayak Foundation. Since 1990 paramedic training, TBA (Traditional Birth Attendants training, training on maternal and child health, family planning and primary health care and other health-related trainings are provided through Ad-Din training centre established in 1985.",
+        "ContactNumber": "9353391-3",
+        "Address" : "Moghbazar, Dhaka",
+        "servicesId" : 2
+        
+    },{ 
+        "id" :3,
+        "HospitalName": "Ahmed Medical Centre Ltd",
+        "HospitalImage" : "https://i.ibb.co/4Jdm9rZ/Ahmed-Medical-Centre-Ltd.jpg",
+        "HospitalDetail": "Ahmed Medical Complex greatly values and continually monitors patient feedback in order that it can be responsive and make learning and/or service changes, as necessary. This ensures that services to patients are always based on best practice.Below are a few of the testimonials that patients gave us on our facilities.“I visited the Ahmed Medical Complex in November 2013 and I must comment on the quality of service I received and the friendly helpful attitude of all the staff that I came into contact with. I was very impressed by the organization, the treatment and the communication.I have been a patient in several hospitals, and attended many departments, and I have to say that Ahmed Medical Complex Rawalpindi come top in my opinion, for care an consideration. I found all the staff at Ahmed Medical Complex Rawalpindi really kind and helpful. AMC has a calm and tranquil atmosphere for a hospital From a patient’s perspective, the service offered by Ahmed Medical Complex Rawalpindi – in terms of the efﬁciency of the service, the modern facilities and the friendliness of staff – was superb and I am very grateful for the way it cared for me.”",
+        "ContactNumber": "8113628",
+        "Address" : "House # 71, Road # 15-A, (New), Dhanmondi C/A",
+        "servicesId" : 3
+        
+    },{ 
+        "id" :4,
+        "HospitalName": "Aichi Hospital",
+        "HospitalImage" : "https://i.ibb.co/ymTk0z2/Aichi-Hospital.jpg",
+        "HospitalDetail": " Aichi Hospital is providing maternal and child health and family planning services through satellite clinics. Currently in the working areas of Ad-Din Welfare Centre every month 398 satellite clinics are being organized. Since 1990 microfinance programme of Ad-Din Welfare Centre to help the women is being implemented through 57 units and 11 area offices. Women from the rural areas are also receiving health education, contraceptive, knowledge of nutrition, training and necessary information to produce handicrafts and grow vegetables and seasonal crops. The organisation has been performing these activities with the support of Palli Karma Shahayak Foundation. Since 1990 paramedic training, TBA (Traditional Birth Attendants training, training on maternal and child health, family planning and primary health care and other health-related",
+        "ContactNumber": "8916290,8920165",
+        "Address" : "House # 13, Eshakha Avenue Sector # 6, utttara Dhaka",
+        "servicesId" : 4
+        
+    },{ 
+        "id" :5,
+        "HospitalName": "Al Anaiet Adhunik Hospital",
+        "HospitalImage" : "https://i.ibb.co/3BZkc5q/Al-Anaiet-Adhunik-Hospital.jpg",
+        "HospitalDetail": " AL ANAIET ADHUNIK HOSPITAL is committed to improve healthcare services in Bangladesh. By the grace of Almighty Allah on 7th November, 1986, PDCL started in a little vicinity. From then we never looked back but remember. We had started with a Colorimeter, a Hot Air Oven, Microscope, Centrifuge, X-Ray Machine, ECG, Ultrasonogram Machine and a typewriter. In early 1988 we have introduced Computer in our Centre, which was first in the private Diagnostic Centre industry in Bangladesh. August 1988 we added ELISA Method, which was also the first unit in Bangladesh to use such sophisticated machine in Diagnostic services. Just a few months later we added world famous Olympus Fibre Endoscopy Machine. From then it became a habit for us to add all the modern state of the art technologies in PDCL.",
+        "ContactNumber": "8631619",
+        "Address" : "House # 36, Road # 3, Dhanmondi",
+        "servicesId" : 5
+        
+    },{ 
+        "id" :6,
+        "HospitalName": "Al- Helal Speacialist Hospital",
+        "HospitalImage" : "https://i.ibb.co/qNtw2by/Al-Helal-Speacialist-Hospital.png",
+        "HospitalDetail": "  Al- Helal Speacialist Hospital management always visiting other Hospitals and Clinics in USA, Australia, Germany, Italy, Singapore before selecting any Instrument.In February 1993 First unit of Micro Processor Controlled Image Intensifier TV Monitor System X-Ray unit from GE Medical Systems. In 1994 we introduced standby power backup Generator, which can provide 316 KV power. In 1995 once again we were in spot light by adding Hitachi 911 Fully Automated Biochemistry Analyser. It was the first unit in Bangladesh. In 1998 we had installed Spiral CT Scanner from Hitachi Medical System, Japan. We introduced Chemiluminsent Technology replacing ELISA Method for Immunochemistry test “IMMULITE” from DPC, USA which was only FDA approved instrument in 1999.In 2001 True five differential part Cell Counter from Sysmex, Japan placed in our Lab. Cobas Amplicor Automated PCR from Roche, Germany first unit in Bangladesh was installed in 2003 with full set up of PCR Lab according to WHO recommendation and guide line by Prof.John Askov. In 2005 we added Olympus Biochemistry Auto Analyser which is famous for biochemical tests. In 2006 we again added another Automated Immunochemistry Analyser Elecsys 2010 from Roche, Germany As we continue to build on a long history of growth and excellent along an entrenched culture of quality care and service, PDCL looks at the future with assurance and great aspirations. In 2009 and 2010 we installed more Advanced Technologies from Buyer, Abbott, SLEE etc. Latest installations are High Definition Open MRI and Multi-slice CT Scanner from GE Medical Systems and Cassette less Digital X-Ray from Shimadzu, Japan. Our valued clients/customer is our aspiration.",
+        "ContactNumber": "9006820,9008181",
+        "Address" : "150,Rokeya Sarani Senpara ParbataMirpur-10, Dhaka",
+        "servicesId" : 6
+        
+    },{ 
+        "id" :7,
+        "HospitalName": "Jebel-E-Nur Heart Ltd",
+        "HospitalImage" : "https://i.ibb.co/Y3vTgPz/Al-Jebel-E-Nur-Heart-Ltd.jpg",
+        "HospitalDetail": "Al Jebel-E-Nur Heart Ltd is committed to improve healthcare services in Bangladesh. By the grace of Almighty Allah on 7th November, 1986, PDCL started in a little vicinity. From then we never looked back but remember. We had started with a Colorimeter, a Hot Air Oven, Microscope, Centrifuge, X-Ray Machine, ECG, Ultrasonogram Machine and a typewriter. In early 1988 we have introduced Computer in our Centre, which was first in the private Diagnostic Centre industry in Bangladesh. August 1988 we added ELISA Method, which was also the first unit in Bangladesh to use such sophisticated machine in Diagnostic services. Just a few months later we added world famous Olympus Fibre Endoscopy Machine. From then it became a habit for us to add all the modern state of the art technologies in PDCL. ",
+        "ContactNumber": "8117031",
+        "Address" : "House # 21, Road # 9/A (New),Dhanmondi",
+        "servicesId" : 7
+        
+    },{ 
+        "id" :8,
+        "HospitalName": "Al- Rajhi Hospital",
+        "HospitalImage" : "https://i.ibb.co/hC9rqNd/Al-Rajhi-Hospital.jpg",
+        "HospitalDetail": "In Al- Rajhi Hospital Germany first unit in Bangladesh was installed in 2003 with full set up of PCR Lab according to WHO recommendation and guide line by Prof.John Askov. In 2005 we added Olympus Biochemistry Auto Analyser which is famous for biochemical tests. In 2006 we again added another Automated Immunochemistry Analyser Elecsys 2010 from Roche, Germany As we continue to build on a long history of growth and excellent along an entrenched culture of quality care and service, PDCL looks at the future with assurance and great aspirations. In 2009 and 2010 we installed more Advanced Technologies from Buyer, Abbott, SLEE etc. Latest installations are High Definition Open MRI and Multi-slice CT Scanner from GE Medical Systems and Cassette less Digital X-Ray from Shimadzu, Japan. Our valued clients/customer is our aspiration ",
+        "ContactNumber": "8119229,8121172,9117775",
+        "Address" : "12, Farmgate-1215, Dhaka",
+        "servicesId" : 8
+        
+    },{ 
+        "id" :9,
+        "HospitalName": "Al-Ahsraf General Hospital",
+        "HospitalImage" : "https://i.ibb.co/6rRTm65/Al-Ahsraf-General-Hospital.jpg",
+        "HospitalDetail": "Al-Ahsraf General Hospital Ltd is committed to improve healthcare services in Bangladesh. By the grace of Almighty Allah on 7th November, 1986, PDCL started in a little vicinity. From then we never looked back but remember. We had started with a Colorimeter, a Hot Air Oven, Microscope, Centrifuge, X-Ray Machine, ECG, Ultrasonogram Machine and a typewriter. In early 1988 we have introduced Computer in our Centre, which was first in the private Diagnostic Centre industry in Bangladesh. August 1988 we added ELISA Method, which was also the first unit in Bangladesh to use such sophisticated machine in Diagnostic services. Just a few months later we added world famous Olympus Fibre Endoscopy Machine. From then it became a habit for us to add all the modern state of the art technologies in PDCL.",
+        "ContactNumber": "8952851-2",
+        "Address" : "House # 12 Road # 21,Sector # 4,Uttara Dhaka",
+        "servicesId" : 9
+        
+    },{ 
+        "id" :10,
+        "HospitalName": "Al-Biruni Hospital",
+        "HospitalImage" : "https://i.ibb.co/G2ctprR/Al-Biruni-Hospital.jpg",
+        "HospitalDetail": " Al-Biruni Hospital  Ltd is committed to improve healthcare services in Bangladesh. By the grace of Almighty Allah on 7th November, 1986, PDCL started in a little vicinity. From then we never looked back but remember. We had started with a Colorimeter, a Hot Air Oven, Microscope, Centrifuge, X-Ray Machine, ECG, Ultrasonogram Machine and a typewriter. In early 1988 we have introduced Computer in our Centre, which was first in the private Diagnostic Centre industry in Bangladesh. August 1988 we added ELISA Method, which was also the first unit in Bangladesh to use such sophisticated machine in Diagnostic services. Just a few months later we added world famous Olympus Fibre Endoscopy Machine. From then it became a habit for us to add all the modern state of the art technologies in PDCL.",
+        "ContactNumber": "8118905, 9115953",
+        "Address" : "23/1, Khilzee Road, Shyamoli",
+        "servicesId" : 10
+        
+    },{ 
+        "id" :11,
+        "HospitalName": "Al-Fateh Medical Sevices (Pvt) Ltd",
+        "HospitalImage" : "https://i.ibb.co/XFLd9MF/Al-Fateh-Medical-Sevices-Pvt-Ltd.jpg",
+        "HospitalDetail": " Al-Fateh Medical Sevices (Pvt) Ltd is committed to improve healthcare services in Bangladesh. By the grace of Almighty Allah on 7th November, 1986, PDCL started in a little vicinity. From then we never looked back but remember. We had started with a Colorimeter, a Hot Air Oven, Microscope, Centrifuge, X-Ray Machine, ECG, Ultrasonogram Machine and a typewriter. In early 1988 we have introduced Computer in our Centre, which was first in the private Diagnostic Centre industry in Bangladesh. August 1988 we added ELISA Method, which was also the first unit in Bangladesh to use such sophisticated machine in Diagnostic services. Just a few months later we added world famous Olympus Fibre Endoscopy Machine. From then it became a habit for us to add all the modern state of the art technologies in PDCL. ",
+        "ContactNumber": "9120615",
+        "Address" : "11, Farmgate over Bridge East Side",
+        "servicesId" : 11
+        
+    },{ 
+        "id" :12,
+        "HospitalName": "Al-Madina General Hospital (Pvt.) Ltd",
+        "HospitalImage" : "https://i.ibb.co/rw6CJy8/Al-Madina-General-Hospital-Pvt-Ltd.jpg",
+        "HospitalDetail": "In Al-Madina General Hospital (Pvt.) Ltd Germany first unit in Bangladesh was installed in 2003 with full set up of PCR Lab according to WHO recommendation and guide line by Prof.John Askov. In 2005 we added Olympus Biochemistry Auto Analyser which is famous for biochemical tests. In 2006 we again added another Automated Immunochemistry Analyser Elecsys 2010 from Roche, Germany As we continue to build on a long history of growth and excellent along an entrenched culture of quality care and service, PDCL looks at the future with assurance and great aspirations. In 2009 and 2010 we installed more Advanced Technologies from Buyer, Abbott, SLEE etc. Latest installations are High Definition Open MRI and Multi-slice CT Scanner from GE Medical Systems and Cassette less Digital X-Ray from Shimadzu, Japan. Our valued clients/customer is our aspiration ",
+        "ContactNumber": "8118709",
+        "Address" : "2/A, Golden Street, Ring Road, Shamoli, Dhaka",
+        "servicesId" : 12
+        
+    }
+]

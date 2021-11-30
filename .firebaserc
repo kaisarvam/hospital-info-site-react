@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "react-hospital-site",
+    "react-hospital": "react-hospital-site"
+  },
+  "targets": {}
+}

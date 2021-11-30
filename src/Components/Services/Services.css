@@ -1,0 +1,9 @@
+.card-height-service{
+    height: 650px;
+}
+
+.card-height-service:hover{
+    height: 650px;
+    box-shadow: 4px 4px 25px rgb(86, 240, 245);
+}
+

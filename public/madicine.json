@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "medicineName": "Adegra 100",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/untitled-1-1632982965494.webp?w=256",
+    "type": "Tablet",
+    "Currentprice": 47.64,
+    "OldPrice": 50.15,
+    "Discount": 5
+  },
+  {
+    "id": 2,
+    "medicineName": "Fluclox 500",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/fluclox-500-1631442367478.webp?w=256",
+    "type": "Capsule",
+    "Currentprice": 10.07,
+    "OldPrice": 10.6,
+    "Discount": 5
+  },
+  {
+    "id": 3,
+    "medicineName": "Febus 40",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/untitled-6-1631418761757.webp?w=256",
+    "type": "Tablet",
+    "Currentprice": 11.44,
+    "OldPrice": 12.04,
+    "Discount": 5
+  },
+  {
+    "id": 4,
+    "medicineName": "Anaflex 500",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/anaflex-5003-1631426712690.webp?w=256",
+    "type": "Tablet",
+    "Currentprice": 8.61,
+    "OldPrice": 9.06,
+    "Discount": 5
+  },
+  {
+    "id": 5,
+    "medicineName": "Doximar 200",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/doximar-2001-1631425859570.webp?w=256",
+    "type": "Tablet",
+    "Currentprice": 5.7,
+    "OldPrice": 6.0,
+    "Discount": 5
+  },
+  {
+    "id": 6,
+    "medicineName": "Atasin 10",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/atasin-101-1631427968002.webp?w=256",
+    "type": "Tablet",
+    "Currentprice": 9.57,
+    "OldPrice": 10.07,
+    "Discount": 5
+  },
+  {
+    "id": 7,
+    "medicineName": "Cefim-3 DS",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/cefim-3-ds-1629969819461.webp?w=256",
+    "type": "Capsule",
+    "Currentprice": 47.82,
+    "OldPrice": 50.34,
+    "Discount": 5
+  },
+  {
+    "id": 8,
+    "medicineName": "Acical-M",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/acical-m-1628763984013-1629951085038.webp?w=256",
+    "type": "Tablet",
+    "Currentprice": 199.5,
+    "OldPrice": 210.0,
+    "Discount": 5
+  },
+  {
+    "id": 9,
+    "medicineName": "Brodil 4",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/brodil-4-1631604326642.webp?w=256",
+    "type": "Tablet",
+    "Currentprice": 8.74,
+    "OldPrice": 9.2,
+    "Discount": 5
+  },
+  {
+    "id": 10,
+    "medicineName": "Cartilex D",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/cartilex-d-1631442774426.webp?w=256",
+    "type": "Tablet",
+    "Currentprice": 11.4,
+    "OldPrice": 12.0,
+    "Discount": 5
+  },
+  {
+    "id": 11,
+    "medicineName": "Ritch 50 ml",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/ritch-50-ml1-1631424889466.webp?w=256",
+    "type": "Oral Suspension",
+    "Currentprice": 45.75,
+    "OldPrice": 48.14,
+    "Discount": 5
+  },
+  {
+    "id": 12,
+    "medicineName": "Acical-D",
+    "companyName": "ACI Limited",
+    "imageURL": "https://cdn.osudpotro.com/thumb/medicine/acical-d3-1631363775608.webp?w=256",
+    "type": "Tablet",
+    "Currentprice": 66.5,
+    "OldPrice": 70.0,
+    "Discount": 5
+  }
+]
